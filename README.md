@@ -4,15 +4,25 @@
 <div align="center">
 <img align="center" alt="Coding" width="500" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 </div>
+<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vitalikozhurov">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="https://t.me/vitalik_kazhurou">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
+  </a>
+  <a href="mailto:vitalik24021992@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+  </a>
+  <br>
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitalikozhurov)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vitalik_kazhurou)
-<div align="left">
-<h3>* 👨‍💻 Most of my projects are available at [my portfolio.](https://vitalikozhurov.github.io/portfolio)</h3>
-<h3>* 📖 I’m improve my skills every day </h3>
-<h3>* ✉️ You can contact me at [vitalya.bedik@gmail.com](mailto:vitalik24021992@gmail.com) </h3>
-<h3>* 🤝 I'm open to collaborating on interesting projects</h3>
-</div>
+### - 👨‍💻 Most of my projects are available at [my portfolio](https://vitalikozhurov.github.io/portfolio)
+### - 📖 I’m improve my skills every day
+### - ✉️ You can contact me at [vitalya.bedik@gmail.com](mailto:vitalik24021992@gmail.com)
+### - 🤝 I'm open to collaborating on interesting projects
+
 <br>
 
 ### Tech Stack
@@ -51,9 +61,28 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 <hr>
+<h3 align="center">🔥 My stats:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitalikozhurov&show_icons=true&locale=en&layout=compact" alt="vitalikozhurov" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vitalikozhurov&show_icons=true&locale=en" alt="vitalikozhurov" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vitalikozhurov&" alt="vitalikozhurov" /></p>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitalikozhurov&theme=tokyonight)
+  
+</div>
+<div align="center"> 
+   
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vitalikozhurov&theme=tokyonight)
+
+</div>
+<div align="center"> 
+   
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+<h3 align="center">📈 Codewars:</h3> 
+<div align="center"> 
+  
+[![codewars](https://www.codewars.com/users/VitaliKozhurov/badges/large)](https://www.codewars.com/users/VitaliKozhurov)
+
+</div>
