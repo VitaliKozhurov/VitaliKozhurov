@@ -7,19 +7,12 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitalikozhurov)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vitalik_kazhurou)
-
-
-
-
-<div>
-- 👨‍💻 Most of my projects are available at [https://vitalikozhurov.github.io/portfolio/](https://vitalikozhurov.github.io/portfolio/)
-- 📖 I’m improve my skills every day 
-- ✉️ You can contact me at [vitalya.bedik@gmail.com](mailto:vitalik24021992@gmail.com) 
-- 🤝 I'm open to collaborating on interesting projects
+<div align="left">
+<h3>* 👨‍💻 Most of my projects are available at [my portfolio.](https://vitalikozhurov.github.io/portfolio)</h3>
+<h3>* 📖 I’m improve my skills every day </h3>
+<h3>* ✉️ You can contact me at [vitalya.bedik@gmail.com](mailto:vitalik24021992@gmail.com) </h3>
+<h3>* 🤝 I'm open to collaborating on interesting projects</h3>
 </div>
-
-
-
 <br>
 
 ### Tech Stack
