@@ -20,7 +20,7 @@
 
 ### - 👨‍💻 Most of my projects are available at [my portfolio](https://vitalikozhurov.github.io/portfolio)
 ### - 📖 I’m improve my skills every day
-### - ✉️ You can contact me at [vitalya.bedik@gmail.com](mailto:vitalik24021992@gmail.com)
+### - ✉️ You can contact me at [vitalik24021992@gmail.com](mailto:vitalik24021992@gmail.com)
 ### - 🤝 I'm open to collaborating on interesting projects
 
 <br>
