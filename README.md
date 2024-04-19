@@ -2,7 +2,7 @@
 <h2 align="center">A passionate Frontend Developer from Belarus, Minsk</h2>
 <br>
 <div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" min-width="300px" max-width="300px" width="400px" align="right" alt="Computador">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" min-width="300px" max-width="300px" width="400px" alt="Computador">
 </div>
 <br>
 <p align="center">
